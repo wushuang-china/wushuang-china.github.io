@@ -1,26 +1,45 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
- -->
-Shuang Wu, PhD student in Power Engineering and Engineering Thermophysics at Northeast Electric Power University, under the supervision of Professor Qing Wang.   Currently a visiting PhD student at the University of Alberta, Canada, under the guidance of Professor Xuehua Zhang. Her research focuses on the efficient thermal conversion and low-carbon energy utilization of organic solid waste.    
 
-Education
-======
-**Bachelor's Degree**: June 2018, Northeast Electric Power University, Power System and Automation, Bachelor's Degree.      
-**Msc&PhD: August 2020**: - Present, Northeast Electric Power University, Power Engineering and Engineering Thermophysics, pursuing a direct PhD program, under the supervision of Professor Qing Wang.     
-**Visiting PhD Student**: July 2024 - Present, University of Alberta, Canada, sponsored by the China Scholarship Council (CSC), under the supervision of Professor Xuehua Zhang, Canada Research Chair in Soft Matter Interfaces.      
+I’m Shuang Wu, a PhD candidate in Power Engineering and Engineering Thermo-physics at Northeast Electric Power University in China, supervised by [Prof. Qing Wang (王擎)](https://power.neepu.edu.cn/info/1251/20902.htm).      
+I’m pursuing part of my doctoral research as a visiting PhD student in the [Soft Matter & Interfaces Research Group](https://sites.google.com/view/soft-matter-interfaces/home?authuser=0) at the University of Alberta in Canada, under the supervision of [Prof. Xuehua Zhang](https://sites.google.com/view/soft-matter-interfaces/people/prof-xuehua-zhang?authuser=0).
+   
 
-Awards and Honors:
+📖 Education
 ======
-December 2024: National Scholarship for Doctoral Students, Ministry of Education, China.
-December 2023: National Scholarship for Doctoral Students, Ministry of Education, China.
+- 2020.08 – present, Ph.D candidate, Northeast Electric Power University, China    
+- 2024.07 – present, Visiting PhD Student, University of Alberta, Canada    
+- 2014.08 – 2018.06, B.Eng, Northeast Electric Power University, China    
+
+
+     
+
+🏆 Honors and Awards:
+======
+- 2024.12 China National Scholarship
+- 2023.12 China National Scholarship
+- 2016.10 National Encouragement Scholarship
+- 2015.10 National Encouragement Scholarship
+
+
+📝 Publications (Selected from published papers)
+======
+- Shuang Wu, Qing Wang*, Da Cui, et al. [Hydrothermal carbonization of food waste for sustainable biofuel production: Advancements, challenges, and future prospects](https://www.sciencedirect.com/science/article/abs/pii/S0048969723039505). <span style="color: blue;">
+***Sci. Total Environ. 897 (2023) 165327.***</span> (SCI, JCR Q1, IF<sub>2023</sub>=9.8, **ESI Highly cited paper**)  
+- Shuang Wu, Qing Wang*, Da Cui, et al. [Evaluation of fuel properties and combustion behaviour of hydrochar derived from hydrothermal carbonisation of agricultural wastes](https://www.sciencedirect.com/science/article/abs/pii/S1743967123000387). <span style="color: blue;">
+***J. Energy Inst. 108 (2023) 101209.***</span> (SCI, JCR Q1, IF<sub>2023</sub>=5.7, **ESI Highly cited paper**)      
+- Shuang Wu, Qing Wang, Da Cui*, et al. [Analysis of fuel properties of hydrochar derived from food waste and biomass: Evaluating varied mixing techniques pre/post-hydrothermal carbonization](https://www.sciencedirect.com/science/article/abs/pii/S0959652623038180). <span style="color: blue;">***J. Clean. Prod. 430 (2023) 139660.*** </span> (SCI, JCR Q1, IF<sub>2023</sub>=11.1)   
+- Shuang Wu, Qing Wang, Da Cui*, et al. [Effect of CaO addition on the migration behavior of nitrogen and sulfur during Beipiao oil shale combustion](https://www.sciencedirect.com/science/article/abs/pii/S0360544224020449). <span style="color: blue;"> ***Energy, 304 (2024) 132270.*** </span>(SCI, JCR Q1, IF<sub>2024</sub>=9.0)   
+- Shuang Wu, Qing Wang*, Da Cui, et al. [Insights into the chemical structure evolution and carbonisation mechanism of biomass during hydrothermal treatment](https://www.sciencedirect.com/science/article/abs/pii/S1743967123000867). <span style="color: blue;"> ***J. Energy Inst. 108 (2023) 101257.*** </span> (SCI, JCR Q1, IF<sub>2023</sub>=5.7)  
+- See more papers via [Google Scholar](https://scholar.google.com.hk/citations?user=liaz4aYAAAAJ&hl=zh-CN) or[ORCID](https://orcid.org/0000-0002-9537-5950).
+
 
 
 <!-- 
